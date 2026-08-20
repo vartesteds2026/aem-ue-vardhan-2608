@@ -1,7 +1,7 @@
 {
     "definitions": [
         {
-            "title": "Adventure CF",
+            "title": "VAR Adventure CF",
             "id": "adventure-cf",
             "plugins": {
                 "xwalk": {
